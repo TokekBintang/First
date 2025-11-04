@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (360p)
+https://e3.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids" tvg-id="DisneyXDEast.us" tvg-name="DisneyXDEast.us", Disney XD East
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
