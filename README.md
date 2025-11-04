@@ -107,7 +107,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/LN4
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 http://mytvsuper.27481716.xyz/mytvsuper/SMS
 
-#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝音樂綜藝" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="Entertainment", ROCK Entertainment 
+#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝音樂綜藝" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="Movie", ROCK Entertainment 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
