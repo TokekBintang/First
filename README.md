@@ -37,161 +37,102 @@ http://mytvsuper.27481716.xyz/mytvsuper/CRTX
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 http://mytvsuper.27481716.xyz/mytvsuper/CKIX
 
-#EXTINF:-1 tvg-id="LNH" tvg-name="Love Nature HD" tvg-logo="https://epg.iill.top/logo/LoveNature.png" group-title="生活探索", Love Nature HD
+#EXTINF:-1 tvg-id="LNH" tvg-name="Love Nature HD" tvg-logo="https://epg.iill.top/logo/LoveNature.png" group-title="Documentary", Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
 http://mytvsuper.27481716.xyz/mytvsuper/LNH
 
-#EXTINF:-1 tvg-id="LN4" tvg-name="Love Nature 4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="生活探索", Love Nature 4K
+#EXTINF:-1 tvg-id="LN4" tvg-name="Love Nature 4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="Documentary", Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
 http://mytvsuper.27481716.xyz/mytvsuper/LN4
 
-#EXTINF:-1 tvg-id="SMS" tvg-name="Global Trekker" tvg-logo="https://epg.iill.top/logo/GlobalTrekker.png" group-title="生活探索", Global Trekker
+#EXTINF:-1 tvg-id="SMS" tvg-name="Global Trekker" tvg-logo="https://epg.iill.top/logo/GlobalTrekker.png" group-title="Documentary", Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 http://mytvsuper.27481716.xyz/mytvsuper/SMS
 
-#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝音樂綜藝" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="電影戲劇", ROCK 綜藝音樂綜藝
+#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝音樂綜藝" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="Entertainment", ROCK Entertainment 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
 http://mytvsuper.27481716.xyz/mytvsuper/CRTE
 
-#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="其它頻道", AXN
+#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="Movie", AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
 http://mytvsuper.27481716.xyz/mytvsuper/CAXN
 
-#EXTINF:-1 tvg-id="RKEX" tvg-name="ROCK Extreme" tvg-logo="https://epg.iill.top/logo/RockExtreme.png" group-title="電影戲劇", ROCK Extreme
+#EXTINF:-1 tvg-id="RKEX" tvg-name="ROCK Extreme" tvg-logo="https://epg.iill.top/logo/RockExtreme.png" group-title="Movie", ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
 http://mytvsuper.27481716.xyz/mytvsuper/RKEX
 
-#EXTINF:-1 tvg-id="CANI" tvg-name="Animax" tvg-logo="https://epg.iill.top/logo/Animax.png" group-title="電影戲劇", Animax
+#EXTINF:-1 tvg-id="CANI" tvg-name="Animax" tvg-logo="https://epg.iill.top/logo/Animax.png" group-title="Kids", Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
 http://mytvsuper.27481716.xyz/mytvsuper/CANI
 
-#EXTINF:-1 tvg-id="CJTV" tvg-name="tvN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="電影戲劇", tvN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-http://mytvsuper.27481716.xyz/mytvsuper/CJTV
-
-
-
-#EXTINF:-1 tvg-id="FBX" tvg-name="FashionBox" tvg-logo="https://epg.iill.top/logo/FashionBox.png" group-title="音樂綜藝", FashionBox
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-http://mytvsuper.27481716.xyz/mytvsuper/FBX
-
-#EXTINF:-1 tvg-id="CMEZ" tvg-name="Mezzo Live HD" tvg-logo="https://epg.iill.top/logo/MezzoLive.png" group-title="音樂綜藝", Mezzo Live HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-http://mytvsuper.27481716.xyz/mytvsuper/CMEZ
-
-#EXTINF:-1 tvg-id="DTV" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="綜合頻道", 東方衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-http://mytvsuper.27481716.xyz/mytvsuper/DTV
-
-#EXTINF:-1 tvg-id="POPC" tvg-name="PopC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="電影戲劇", PopC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-http://mytvsuper.27481716.xyz/mytvsuper/POPC
-
-
-#EXTINF:-1 tvg-id="CF24" tvg-name="France 24" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="新聞財經", France 24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-http://mytvsuper.27481716.xyz/mytvsuper/CF24
-
-#EXTINF:-1 tvg-id="CDW1" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="新聞財經", DW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-http://mytvsuper.27481716.xyz/mytvsuper/CDW1
-
-#EXTINF:-1 tvg-id="CNHK" tvg-name="NHK World-Japan" tvg-logo="https://epg.iill.top/logo/NHKWORLD.png" group-title="新聞財經", NHK World-Japan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-http://mytvsuper.27481716.xyz/mytvsuper/CNHK
-
-#EXTINF:-1 tvg-id="CARI" tvg-name="Arirang TV" tvg-logo="https://epg.iill.top/logo/Arirang.png" group-title="綜合頻道", Arirang TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-http://mytvsuper.27481716.xyz/mytvsuper/CARI
-
-#EXTINF:-1 tvg-id="ACTM" tvg-name="Action Hollywood Movies" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="電影戲劇",Action Hollywood Movies
+#EXTINF:-1 tvg-id="ACTM" tvg-name="Action Hollywood Movies" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Movie",Action Hollywood Movies
 http://mytvsuper.27481716.xyz/mytvsuper/ACTM
 
-#EXTINF:-1 tvg-id="RCM" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="電影戲劇",Rialto Classic Movies (RCM)
+#EXTINF:-1 tvg-id="RCM" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Movie",Rialto Classic Movies (RCM)
 http://mytvsuper.27481716.xyz/mytvsuper/RCM
 
-#EXTINF:-1 tvg-id="TRSP" tvg-name="TRACE Sport Stars" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",TRACE Sport Stars
+#EXTINF:-1 tvg-id="TRSP" tvg-name="TRACE Sport Stars" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Sport",TRACE Sport Stars
 http://mytvsuper.27481716.xyz/mytvsuper/TRSP
 
-#EXTINF:-1 tvg-id="PETC" tvg-name="Pet Club TV" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",Pet Club TV
+#EXTINF:-1 tvg-id="PETC" tvg-name="Pet Club TV" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Pet Club TV
 http://mytvsuper.27481716.xyz/mytvsuper/PETC
 
-#EXTINF:-1 tvg-id="GLBT" tvg-name="Globetrotter" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",Globetrotter
+#EXTINF:-1 tvg-id="GLBT" tvg-name="Globetrotter" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Globetrotter
 http://mytvsuper.27481716.xyz/mytvsuper/GLBT
 
-#EXTINF:-1 tvg-id="DOCV" tvg-name="DocsVille" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",DocsVille
+#EXTINF:-1 tvg-id="DOCV" tvg-name="DocsVille" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",DocsVille
 http://mytvsuper.27481716.xyz/mytvsuper/DOCV
 
-#EXTINF:-1 tvg-id="PULS" tvg-name="Pulse Documentaries" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",Pulse Documentaries
+#EXTINF:-1 tvg-id="PULS" tvg-name="Pulse Documentaries" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Pulse Documentaries
 http://mytvsuper.27481716.xyz/mytvsuper/PULS
 
-#EXTINF:-1 tvg-id="NOW7" tvg-name="NOW 70s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",NOW 70s
+#EXTINF:-1 tvg-id="NOW7" tvg-name="NOW 70s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 70s
 http://mytvsuper.27481716.xyz/mytvsuper/NOW7
 
-#EXTINF:-1 tvg-id="NOW8" tvg-name="NOW 80s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",NOW 80s
+#EXTINF:-1 tvg-id="NOW8" tvg-name="NOW 80s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 80s
 http://mytvsuper.27481716.xyz/mytvsuper/NOW8
 
-#EXTINF:-1 tvg-id="NOWR" tvg-name="NOW ROCK" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",NOW ROCK
+#EXTINF:-1 tvg-id="NOWR" tvg-name="NOW ROCK" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW ROCK
 http://mytvsuper.27481716.xyz/mytvsuper/NOWR
 
-#EXTINF:-1 tvg-id="NOW9" tvg-name="NOW 90s00s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",NOW 90s00s
+#EXTINF:-1 tvg-id="NOW9" tvg-name="NOW 90s00s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 90s00s
 http://mytvsuper.27481716.xyz/mytvsuper/NOW9
 
-#EXTINF:-1 tvg-id="CONC" tvg-name="Concerto" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",Concerto
+#EXTINF:-1 tvg-id="CONC" tvg-name="Concerto" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",Concerto
 http://mytvsuper.27481716.xyz/mytvsuper/CONC
 
-#EXTINF:-1 tvg-id="TRUR" tvg-name="TRACE Urban" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",TRACE Urban
+#EXTINF:-1 tvg-id="TRUR" tvg-name="TRACE Urban" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",TRACE Urban
 http://mytvsuper.27481716.xyz/mytvsuper/TRUR
 
-#EXTINF:-1 tvg-id="NSWD" tvg-name="NewsWorld" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="其它頻道",NewsWorld
-
-#EXTINF:-1 group-logo="" group-title="AstroGO" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,HBO
+#EXTINF:-1 group-logo="" group-title="Movie" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="AstroGO" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",HBO HITS
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="Movie" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
 
-#EXTINF:-1 group-logo="" group-title="AstroGO" tvg-id="414.astro" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,HBO Family  
+#EXTINF:-1 group-logo="" group-title="Movie" tvg-id="414.astro" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,HBO Family  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -199,187 +140,53 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="AstroGO" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png", CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="Movie" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png", CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
-#EXTINF:-1 group-logo="" group-title="AstroGO" tvg-id="413.astro" tvg-logo="https://get.perfecttv.net/logo/showcase.png" , Showcase Movies 
+#EXTINF:-1 group-logo="" group-title="Movie" tvg-id="413.astro" tvg-logo="https://get.perfecttv.net/logo/showcase.png" , Showcase Movies 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
 
 
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="148" group-title="AstroGO",8TV 八度空间
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="體育運動" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",Bein1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=323148d9bf4d481fbbc8067bc227960c:5f4c296e4c543b2c750ba48c2302cec4
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein1fhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein1fhd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="體育運動" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png",Bein2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=9b9f474f9bd54708809e3a37306d4832:25bb473ed8915a04ee5e755b40c92508
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein2fhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein2fhd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="體育運動" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png",Bein3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=124ee769c9914114863c46b9c452a56c:401d3f2fb9e6a5954683fa51d5479041
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="體育運動" tvg-logo="https://get.perfecttv.net/logo/bein4fhd.png",Bein4 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash	
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey				
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein4unifi
-
-#EXTINF:-1 group-title="體育運動" tvg-logo="https://iili.io/FtSr5Mb.jpg",Premier League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="體育運動" tvg-logo="https://iili.io/FtSr5Mb.jpg",Premier League 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-#EXTINF:-1 group-title="體育運動" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",Major League Soccer 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="體育運動" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",Football FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd
-
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="體育運動",SpoTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="體育運動",SpoTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 group-title="體育運動" tvg-id="NBA"  tvg-logo="https://get.perfecttv.net/logo/peacock_wwe.png",Peacock WWE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=peacockWwe
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro UHD" group-title="體育運動"  tvg-logo="https://get.perfecttv.net/logo/sportuhd.png",Astro UHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrouhd
-
-
-
-
-
-
-#EXTINF:-1 player-buffer="2" tvg-id="288.unifi" ch-number="288" tvg-name="CELESTIAL HD" tvg-logo="https://get.perfecttv.net/logo/celestialmovies.png" group-title="電影戲劇",天映频道
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=celestial|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
-
-===========astrogo korean=======================
-
-#EXTINF:-1 tvg-id="392.astro" tvg-name="KBS World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png"  group-title="ASTRO CN SUB",KBS World HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#EXTINF:-1 tvg-id="396.astro" tvg-name="K-Plus" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png"  group-title="ASTRO CN SUB",K-Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#EXTINF:-1 tvg-id="393.astro" tvg-name="ONE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png"  group-title="ASTRO CN SUB",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="395.astro" tvg-name="tvN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png"  group-title="ASTRO CN SUB",tvN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-===========================================================================
-
 ===========astrogo movies=================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="ASTRO CN SUB",HBO
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movie",HBO
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="ASTRO CN SUB",HBO Family
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movie",HBO Family
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="ASTRO CN SUB",HBO Hits
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movie",HBO Hits
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-#EXTINF:-1 tvg-id="412.astro"  tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"  group-title="ASTRO CN SUB",CINEMAX HD
+#EXTINF:-1 tvg-id="412.astro"  tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"  group-title="Movie",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
-#EXTINF:-1 tvg-id="401.astro"  tvg-name="HITS Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"  group-title="ASTRO CN SUB",Hits Movies HD
+#EXTINF:-1 tvg-id="401.astro"  tvg-name="HITS Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"  group-title="Movie",Hits Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-id="413.astro"  tvg-name="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png"  group-title="ASTRO CN SUB",Astro Showcase
+#EXTINF:-1 tvg-id="413.astro"  tvg-name="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png"  group-title="Movie",Astro Showcase
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
@@ -396,18 +203,6 @@ https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
-#EXTINF:-1 tvg-id="309.astro"  tvg-name="Celestial Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png"  group-title="Movie",Celestial Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
-
-#EXTINF:-1 tvg-id="321.astro"  tvg-name="CCM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Movie",Celestial Classic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 ==========================================
 
@@ -429,13 +224,13 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
-#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png"  group-title="Entertainment",Lifetime HD
+#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png"  group-title="Movie",Lifetime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 
-#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV Live" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png"  group-title="Entertainment",MTV Live HD
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV Live" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png"  group-title="Music",MTV Live HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
