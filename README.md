@@ -1,43 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="KID" tvg-name="SUPER Kids Channel" tvg-logo="https://epg.iill.top/logo/SUPERKidsChannel.png" group-title="少兒頻道", SUPER Kids Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-http://mytvsuper.27481716.xyz/mytvsuper/KID
-
-#EXTINF:-1 tvg-id="ZOO" tvg-name="ZooMoo" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="少兒頻道", ZooMoo
+#EXTINF:-1 tvg-id="ZOO" tvg-name="ZooMoo" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="Kids", ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
 http://mytvsuper.27481716.xyz/mytvsuper/ZOO
 
-#EXTINF:-1 tvg-id="CNIKO" tvg-name="Nickelodeon" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="少兒頻道", Nickelodeon
+#EXTINF:-1 tvg-id="CNIKO" tvg-name="Nickelodeon" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="Kids", Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
 http://mytvsuper.27481716.xyz/mytvsuper/CNIKO
 
-#EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="少兒頻道", Nick Jr.
+#EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="Kids", Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
 http://mytvsuper.27481716.xyz/mytvsuper/CNIJR
 
-#EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="電影戲劇", Thrill
+#EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="Movie", Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
 http://mytvsuper.27481716.xyz/mytvsuper/CTHR
 
 
-#EXTINF:-1 tvg-id="CRTX" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="電影戲劇", ROCK Action
+#EXTINF:-1 tvg-id="CRTX" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="Movie", ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
 http://mytvsuper.27481716.xyz/mytvsuper/CRTX
 
-#EXTINF:-1 tvg-id="CKIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="電影戲劇", KIX
+#EXTINF:-1 tvg-id="CKIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="Movie", KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
@@ -391,25 +385,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="404.astro" tvg-name="Boo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="ASTRO CN SUB",Astro Boo
+#EXTINF:-1 tvg-id="404.astro" tvg-name="Boo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Movie",Astro Boo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
 
-#EXTINF:-1 tvg-id="416.astro" tvg-name="tvN Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png"  group-title="ASTRO CN SUB",tvN Movies HD
+#EXTINF:-1 tvg-id="416.astro" tvg-name="tvN Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png"  group-title="Movie",tvN Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="309.astro"  tvg-name="Celestial Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png"  group-title="ASTRO CN SUB",Celestial Movies HD
+#EXTINF:-1 tvg-id="309.astro"  tvg-name="Celestial Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png"  group-title="Movie",Celestial Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="321.astro"  tvg-name="CCM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="ASTRO CN SUB",Celestial Classic Movies
+#EXTINF:-1 tvg-id="321.astro"  tvg-name="CCM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Movie",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
@@ -420,100 +414,100 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="ASTRO CN SUB",AXN
+#EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Movie",AXN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#EXTINF:-1 tvg-id="706.astro" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png"  group-title="ASTRO CN SUB",HITS HD
+#EXTINF:-1 tvg-id="706.astro" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png"  group-title="Movie",HITS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hits
 
-#EXTINF:-1 ch-number="702.astro" tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png"  group-title="ASTRO CN SUB",HITS Now
+#EXTINF:-1 ch-number="702.astro" tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png"  group-title="Movie",HITS Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
-#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png"  group-title="ASTRO CN SUB",Lifetime HD
+#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png"  group-title="Entertainment",Lifetime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
 
-#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV Live" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png"  group-title="ASTRO CN SUB",MTV Live HD
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV Live" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png"  group-title="Entertainment",MTV Live HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
-#EXTINF:-1 tvg-id="709.astro" tvg-name="AFN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png"  group-title="ASTRO CN SUB",Asian Food Network HD
+#EXTINF:-1 tvg-id="709.astro" tvg-name="AFN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png"  group-title="Documentary",Asian Food Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
 
-#EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png"  group-title="ASTRO CN SUB",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png"  group-title="Documentary",BBC Lifestyle HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
-#EXTINF:-1 tvg-id="715.astro" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png"  group-title="ASTRO CN SUB",HGTV HD
+#EXTINF:-1 tvg-id="715.astro" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png"  group-title="Documentary",HGTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
-#EXTINF:-1 tvg-id="707.astro" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png"  group-title="ASTRO CN SUB",TLC HD
+#EXTINF:-1 tvg-id="707.astro" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png"  group-title="Documentary",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
-#EXTINF:-1 tvg-id="555.astro" tvg-name="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png"   group-title="ASTRO CN SUB",History HD
+#EXTINF:-1 tvg-id="555.astro" tvg-name="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png"   group-title="Documentary",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="714.astro"  tvg-name="CI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png"  group-title="ASTRO CN SUB",Crime & Investigation HD
+#EXTINF:-1 tvg-id="714.astro"  tvg-name="CI HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png"  group-title="Documentary",Crime & Investigation HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=crimeinvestigation
 
-#EXTINF:-1 tvg-id="554.astro" tvg-name=" Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png"  group-title="ASTRO CN SUB",BBC Earth
+#EXTINF:-1 tvg-id="554.astro" tvg-name=" Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png"  group-title="Documentary",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#EXTINF:-1 tvg-id="552.astro" tvg-name="Discovery Channel HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png"  group-title="ASTRO CN SUB",Discovery Channel HD
+#EXTINF:-1 tvg-id="552.astro" tvg-name="Discovery Channel HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png"  group-title="Documentary",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
-#EXTINF:-1 tvg-id="55.astro3" tvg-name="Discovery Asia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png"   group-title="ASTRO CN SUB",Discovery Asia HD
+#EXTINF:-1 tvg-id="55.astro3" tvg-name="Discovery Asia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png"   group-title="Documentary",Discovery Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1g-id="550.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LoveNature_HD.png"  group-title="ASTRO CN SUB",Love Nature
+#EXTINF:-1g-id="550.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LoveNature_HD.png"  group-title="Documentary",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
-#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LoveNature4K_2025.png" group-title="ASTRO CN SUB",Love Nature 4K
+#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LoveNature4K_2025.png" group-title="Documentary",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
-#EXTINF:-1g-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="ASTRO CN SUB",Global Trekker
+#EXTINF:-1g-id="551.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Documentary",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
@@ -609,51 +603,51 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 ====================================================================================================================================
 ========astrogo kids=================
 
-#EXTINF:-1 tvg-id="615.astro" tvg-name="Cartoon Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png"  group-title="ASTRO CN SUB",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="615.astro" tvg-name="Cartoon Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png"  group-title="Kids",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
-#EXTINF:-1 tvg-id="616.astro" tvg-name="Nickelodeon" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png"  group-title="ASTRO CN SUB",NICKELODEON HD
+#EXTINF:-1 tvg-id="616.astro" tvg-name="Nickelodeon" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png"  group-title="Kids",NICKELODEON HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
-#EXTINF:-1 tvg-id="617.astro" tvg-name="Nickelodeon Junior" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png"  group-title="ASTRO CN SUB",NICK JR
+#EXTINF:-1 tvg-id="617.astro" tvg-name="Nickelodeon Junior" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png"  group-title="Kids",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
-#EXTINF:-1 tvg-id="618.astro" tvg-name="Moonbug" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png"  group-title="ASTRO CN SUB",Moonbug
+#EXTINF:-1 tvg-id="618.astro" tvg-name="Moonbug" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png"  group-title="Kids",Moonbug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
-#EXTINF:-1g-id="620.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png"  group-title="ASTRO CN SUB",Cbeebies
+#EXTINF:-1g-id="620.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png"  group-title="Kids",Cbeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="619.astro" tvg-name="Blippi & Friends" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png"  group-title="ASTRO CN SUB",Blippi & Friends
+#EXTINF:-1 tvg-id="619.astro" tvg-name="Blippi & Friends" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png"  group-title="Kids",Blippi & Friends
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 
-#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://i.pinimg.com/564x/8b/e3/3b/8be33b465d4107ba57e33073431dc9b5.jpg" group-title="ASTRO CN SUB", Baby Shark TV
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://i.pinimg.com/564x/8b/e3/3b/8be33b465d4107ba57e33073431dc9b5.jpg" group-title="Kids", Baby Shark TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://ml.globenewswire.com/Resource/Download/e7431928-b552-41fc-87d8-b69238e00c50?size=3.jpg" group-title="ASTRO CN SUB", Kidoodle TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://ml.globenewswire.com/Resource/Download/e7431928-b552-41fc-87d8-b69238e00c50?size=3.jpg" group-title="Kids", Kidoodle TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="ASTRO CN SUB", ZooMoo
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Kids", ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
@@ -661,23 +655,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 
 ====================================================================================================================================
-
-
-#
-#
-
-#
-#
-#
-#
-#
-#
-#
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="電影戲劇",Celestial Movies
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="🎥",121 Citra(B)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
