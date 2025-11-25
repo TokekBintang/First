@@ -529,17 +529,17 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 #EXTINF:-1 group-logo="" group-title="Kids" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
 			
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="Malaysia" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer 
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=prima|authorization=Bearer 
 #https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 #EXTINF:-1 group-logo="" group-title="3 beradik" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 Citra(A)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=citra
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=citra
