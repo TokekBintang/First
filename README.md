@@ -138,7 +138,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/SMS
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
 http://mytvsuper.27481716.xyz/mytvsuper/CRTE
 
-#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="Movie", AXN
+#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN*" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="Movie", AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
