@@ -518,12 +518,9 @@ https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="NOW9" tvg-name="NOW 90s00s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="test",NOW 90s00s
+https://raw.githubusercontent.com/githubodo/hodgetwins.github.io/7a7f6a6e18f57e49e0d6ae969c513b56074ae1ea/stream/ria.m3u8
 ===================================================================================================================================
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🎥" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/…
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer 
-#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11;…
+
 			
 
