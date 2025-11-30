@@ -156,45 +156,6 @@ http://mytvsuper.27481716.xyz/mytvsuper/RKEX
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
 http://mytvsuper.27481716.xyz/mytvsuper/CANI
 
-#EXTINF:-1 tvg-id="ACTM" tvg-name="Action Hollywood Movies" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Movie",Action Hollywood Movies
-http://mytvsuper.27481716.xyz/mytvsuper/ACTM
-
-#EXTINF:-1 tvg-id="RCM" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Movie",Rialto Classic Movies (RCM)
-http://mytvsuper.27481716.xyz/mytvsuper/RCM
-
-#EXTINF:-1 tvg-id="TRSP" tvg-name="TRACE Sport Stars" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Sport",TRACE Sport Stars
-http://mytvsuper.27481716.xyz/mytvsuper/TRSP
-
-#EXTINF:-1 tvg-id="PETC" tvg-name="Pet Club TV" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Pet Club TV
-http://mytvsuper.27481716.xyz/mytvsuper/PETC
-
-#EXTINF:-1 tvg-id="GLBT" tvg-name="Globetrotter" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Globetrotter
-http://mytvsuper.27481716.xyz/mytvsuper/GLBT
-
-#EXTINF:-1 tvg-id="DOCV" tvg-name="DocsVille" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",DocsVille
-http://mytvsuper.27481716.xyz/mytvsuper/DOCV
-
-#EXTINF:-1 tvg-id="PULS" tvg-name="Pulse Documentaries" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Documentary",Pulse Documentaries
-http://mytvsuper.27481716.xyz/mytvsuper/PULS
-
-#EXTINF:-1 tvg-id="NOW7" tvg-name="NOW 70s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 70s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW7
-
-#EXTINF:-1 tvg-id="NOW8" tvg-name="NOW 80s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 80s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW8
-
-#EXTINF:-1 tvg-id="NOWR" tvg-name="NOW ROCK" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW ROCK
-http://mytvsuper.27481716.xyz/mytvsuper/NOWR
-
-#EXTINF:-1 tvg-id="NOW9" tvg-name="NOW 90s00s" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",NOW 90s00s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW9
-
-#EXTINF:-1 tvg-id="CONC" tvg-name="Concerto" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",Concerto
-http://mytvsuper.27481716.xyz/mytvsuper/CONC
-
-#EXTINF:-1 tvg-id="TRUR" tvg-name="TRACE Urban" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="Music",TRACE Urban
-http://mytvsuper.27481716.xyz/mytvsuper/TRUR
-
 #EXTINF:-1 group-logo="" group-title="Movie" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -519,18 +480,34 @@ https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 ===================================================================================================================================
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png" group-title="Local", RIA
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="😁", RIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Ria.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Astro_Prima_%282024%29.png" group-title="Local", PRIMA
+#EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="😁", PRIMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Prima.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Citra_%282024%29.png" group-title="Local", CITRA
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="😁", CITRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Citra.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Ceria_%282024%29.png" group-title="Local", CERIA
+#EXTINF:-1 tvg-id="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="😁", CERIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Ceria.m3u8
+
+EXTINF:-1 tvg-id="AstroCeria" group-title="😁" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="😁" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A/HArhzsN087fUlMdDbT/Q", "kid":"txksRYSBNo3aHstl7JRXEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_ott.mpd
+
