@@ -521,4 +521,4 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 ===================================================================================================================================
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="test", test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://raw.githubusercontent.com/githubodo/hodgetwins.github.io/6ca59765c536b5618ab9dea9b18d65b3d87dae26/stream/prima.m3u8
+http://15.235.216.7:8080/live/33887773366/226999/14.m3u8
