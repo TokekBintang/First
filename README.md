@@ -534,4 +534,5 @@ https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Citra.m3u
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Ceria_%282024%29.png" group-title="Local", CERIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #https://raw.githubusercontent.com/Streamy-sudo/Channel/refs/heads/main/Ceria.m3u8
-https://raw.githubusercontent.com/mbasongan/mbanjaran/4f219b5f024c0f658524324d0cbf3881883680fb/test.m3u8
+#https://raw.githubusercontent.com/mbasongan/mbanjaran/4f219b5f024c0f658524324d0cbf3881883680fb/test.m3u8
+https://raw.githubusercontent.com/mbasongan/mbanjaran/59b417f409badff4fe7b24f18a12ef72903d230d/cer.m3u8
