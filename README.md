@@ -87,13 +87,15 @@ http://mytvsuper.27481716.xyz/mytvsuper/ZOO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-http://mytvsuper.27481716.xyz/mytvsuper/CNIKO
+#http://mytvsuper.27481716.xyz/mytvsuper/CNIKO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="Kids", Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-http://mytvsuper.27481716.xyz/mytvsuper/CNIJR
+#http://mytvsuper.27481716.xyz/mytvsuper/CNIJR
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="Movie", Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
