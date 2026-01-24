@@ -1375,7 +1375,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
 
 ###EXTINF:-1 tvg-id="708.astro" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",708 Food Network
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
