@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://github.com/ediey7523017/tv/raw/main/unifi_epg.xml,https://www.open-epg.com/files/singapore1.xml.gz,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="(*_*)"
+#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://www.open-epg.com/files/singapore1.xml.gz,https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml,https://www.open-epg.com/files/indonesia4.xml.gz" refresh="1440" vod_library="https://github.com/ediey7523017/tv/raw/main/NewVOD,https://github.com/ediey7523017/tv/raw/main/HBOMAX,https://github.com/ediey7523017/tv/raw/main/AstroFirst,https://github.com/ediey7523017/tv/raw/main/CollectionVOD,https://github.com/ediey7523017/tv/raw/main/AseanVOD,https://github.com/ediey7523017/tv/raw/main/EnglishVOD,https://github.com/ediey7523017/tv/raw/main/IndianVOD,https://github.com/ediey7523017/tv/raw/main/KidsVOD" billed-msg="(*_*)"
 
 
 ###################################################################Astro###############################################################
@@ -480,7 +480,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
-https://service.samproject.my.id/unifi/Salam.mpd
+
 
 #EXTINF:-1 tvg-id="114.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=530" group-title="Unifi TV",TV AlHijrah HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -496,7 +496,6 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=TVAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Sensasi
-https://service.samproject.my.id/unifi/Sensasi.mpd
 
 #EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="Unifi TV",Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -505,7 +504,7 @@ https://service.samproject.my.id/unifi/Sensasi.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
-https://service.samproject.my.id/unifi/Inspirasi.mpd
+
 
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="Unifi TV",DEGUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -514,7 +513,7 @@ https://service.samproject.my.id/unifi/Inspirasi.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=DEGUP
-https://service.samproject.my.id/unifi/DEGUP.mpd
+
 
 #EXTINF:-1 tvg-id="121.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="Unifi TV",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -523,7 +522,7 @@ https://service.samproject.my.id/unifi/DEGUP.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=SIAR
-https://service.samproject.my.id/unifi/SIAR.mpd
+
 
 #EXTINF:-1 tvg-id="122.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=530" group-title="Unifi TV",TVS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -539,7 +538,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=TVS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
-https://service.samproject.my.id/unifi/DuniaSin.mpd
+
 
 #EXTINF:-1 tvg-id="141.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="Unifi TV",Pesona HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -548,7 +547,7 @@ https://service.samproject.my.id/unifi/DuniaSin.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
-https://service.samproject.my.id/unifi/Pesona.mpd
+
 
 #EXTINF:-1 tvg-id="201.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=530" group-title="Unifi TV",tvN Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -626,7 +625,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeThi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=SonyYay
-https://service.samproject.my.id/unifi/SonyYay.mpd
+
 
 #EXTINF:-1 tvg-id="339.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=530" group-title="Unifi TV",Zee Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -684,7 +683,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=hitsM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=WarnerTV
-https://service.samproject.my.id/unifi/WarnerTV.mpd
+
 
 #EXTINF:-1 tvg-id="452.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AB981083-F9B7-45F0-A28E-F6DCC3DAF10A/0-16x9.png?width=530" group-title="Unifi TV",HITS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -721,7 +720,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Kplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Animax
-https://service.samproject.my.id/unifi/Animax.mpd
+
 
 #EXTINF:-1 tvg-id="473.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=530" group-title="Unifi TV",ROCK Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -730,7 +729,7 @@ https://service.samproject.my.id/unifi/Animax.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockEnt
-https://service.samproject.my.id/unifi/RockEnt.mpd
+
 
 #EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1EEE031E-E97D-468E-A503-ECE1F41E3AC0/0-16x9.png?width=530" group-title="Unifi TV",ROCK Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -739,7 +738,7 @@ https://service.samproject.my.id/unifi/RockEnt.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=RockAction
-https://service.samproject.my.id/unifi/RockAction.mpd
+
 
 #EXTINF:-1 tvg-id="501.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/06456101-BAA6-40B9-AA17-81B113B0E289/0-16x9.png?width=530" group-title="Unifi TV",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -783,7 +782,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=AsianFoodNetwork
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Dreamworks
-https://service.samproject.my.id/unifi/Dreamworks.mpd
+
 
 #EXTINF:-1 tvg-id="551.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8E7404EF-65F4-491A-8498-7BA94D15D28A/0-16x9.png?width=530" group-title="Unifi TV",Moonbug Kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -855,7 +854,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=CAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=67f4948cdafa46ebbd71eae875237023:9dc5b14da7c3c0d89d63bd9242c2dab0
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=EuroN
-https://service.samproject.my.id/unifi/EuroN.mpd
+
 
 #EXTINF:-1 tvg-id="631.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=530" group-title="Unifi TV",Bernama TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -871,7 +870,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=bernama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=dce6cb3389014684b2abc82f6a478bff:086c0ad70d90bbd9e39478dd0c2460b0
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=parlimen
-https://service.samproject.my.id/unifi/parlimen.mpd
+
 
 #EXTINF:-1 tvg-id="641.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=530" group-title="Unifi TV",ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -894,7 +893,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=NHK
-https://service.samproject.my.id/unifi/NHK.mpd
+
 
 #EXTINF:-1 tvg-id="701.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=530" group-title="Unifi TV",unifi Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -903,7 +902,7 @@ https://service.samproject.my.id/unifi/NHK.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=unifi1
-https://service.samproject.my.id/unifi/unifi1.mpd
+
 
 #EXTINF:-1 tvg-id="706.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530" group-title="Unifi TV",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -912,7 +911,7 @@ https://service.samproject.my.id/unifi/unifi1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV
-https://service.samproject.my.id/unifi/spoTV.mpd
+
 
 #EXTINF:-1 tvg-id="707.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=530" group-title="Unifi TV",SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -921,7 +920,7 @@ https://service.samproject.my.id/unifi/spoTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2
-https://service.samproject.my.id/unifi/spoTV2.mpd
+
 
 #EXTINF:-1 tvg-id="708.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="Unifi TV",beIN SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -951,7 +950,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
-https://service.samproject.my.id/unifi/Bein4.mpd
+
 
 
 #################################################################Indian#################################################################
