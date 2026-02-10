@@ -1206,6 +1206,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1 tvg-id="404.astro" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png",404 Astro Boo
 https://load.perfecttv.net/mpd/boo/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+https://get.perfecttv.net/dash2.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=boo
+
 
 #EXTINF:-1 tvg-id="411.astro" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1579,6 +1581,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/ceria/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=ceria
+
 
 #EXTINF:-1 tvg-id="615.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
