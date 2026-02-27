@@ -30,21 +30,12 @@ https://load.perfecttv.net/mpd/ria/manifest.mpd
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
 https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=riafhd|user-agent=Mozilla/5.0
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro",Astro Ria
-https://restream-bay.vercel.app/?id=352086&e=.m3u8
-https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/mpd/prima/manifest.mpd
-https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astroprima
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
-https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&channel=primafhd|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro",Prim@
 https://restream-bay.vercel.app/?id=352085&e=.m3u8
 https://mimipipi22.github.io/logo/offline.m3u8
+
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
