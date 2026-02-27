@@ -34,7 +34,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro",Astro Prima
 https://restream-bay.vercel.app/?id=352085&e=.m3u8
-https://mimipipi22.github.io/logo/offline.m3u8
+
 
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
@@ -50,7 +50,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
-https://mimipipi22.github.io/logo/offline.m3u8
+
 
 
 #EXTINF:-1 tvg-id="114.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
@@ -71,12 +71,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
-#EXTINF:-1 tvg-id="118" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",118 Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/Citra.m3u8
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="122.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -84,8 +78,6 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/Citra.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1 tvg-id="123" group-title="Astro" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",123 Astro Sensasi
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/main/Sensasi.m3u8
 
 #EXTINF:-1 tvg-id="146.astro" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", 146 TV Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
