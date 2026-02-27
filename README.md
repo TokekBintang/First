@@ -35,6 +35,14 @@ https://load.perfecttv.net/rwt.mpd?username=vip_5n79e3qb&password=z8cwUIl1&chann
 #EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro",Astro Prima
 https://restream-bay.vercel.app/?id=352085&e=.m3u8
 
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro"  ch-number="105" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjKVc8N-jqc1yUD3AjLaw19guV15ic1h1xfLkP8HjTj6mjdfhirP13KRQaIrS3QRc_wjNkXiWPk6a9cLcnCgFfixBsg1ukNGV2tW1NYrP0Suv0YfVlis-2vz5VOsdzYdLspEhbuK8ZDCX70pDdboBcqHlPg2wRzMdf5AECYNucOzCuEiypih_DQ85Bd9iOJ",Astro Prima (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://load.perfecttv.net/mpd/prima/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="106.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png",106 Astro Oasis
