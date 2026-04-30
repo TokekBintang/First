@@ -933,7 +933,7 @@ https://unifi.whacat.tech/CGTN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55da3b7a04b34d93a2ce0c4e3d33a6cd:57ace0638aef039c73f23056add87781
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=CAN
-https://unifi.whacat.tech/CNA
+https://unifi.whacat.tech/CAN
 
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=530" group-title="Unifi TV",Euronews
 #KODIPROP:inputstreamaddon=inputstream.adaptive
